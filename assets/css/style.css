@@ -1,0 +1,51 @@
+*{
+    background-color: #f5e7d5;
+}
+button{
+    font-size: 25px;
+    font-weight: 20;
+    transition: .5s;
+    font-family: "Arial";
+    background-color: none;
+    color: #ef3b1b;
+    padding: 10px;
+    text-align: center;
+    border: none;
+    background-color: inherit;
+
+}
+.fruits, .FRUITS{
+    border: 2px solid coral;
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+p.fruits{
+    color: #2600ff;
+}
+.cars{
+    border: 2px solid greenyellow;
+    background-color: crimson;
+    margin: 25px;
+    padding: 20px;
+    text-align: end;
+    color: antiquewhite;
+}
+.comp{
+    border: 1px solid forestgreen;
+
+}
+#house{
+    border: 2px solid greenyellow;
+    background-color: crimson;
+    margin: 25px;
+    padding: 20px;
+    text-align: end;
+    color: antiquewhite;
+
+}
+.body{
+    background-image: url(assets/images/b8.jpg);
+}

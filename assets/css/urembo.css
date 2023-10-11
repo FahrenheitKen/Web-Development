@@ -1,0 +1,23 @@
+td,th{
+
+    border: #2600ff 1px solid;
+    padding: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+thead{
+    font-family: "Antipasto Pro Medium";
+    font-size: 28px;
+    color: darkred;
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+    font-family: "Antipasto Pro DemiBold";
+    color: darkred;
+}
+tr:nth-child(even){
+    background-color: aquamarine;
+}
